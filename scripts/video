@@ -1,0 +1,3 @@
+#/bin/sh
+mpv --player-operation-mode=pseudo-gui --fs --fs-screen=0 --loop \$UICIDEBOY\$\ -\ Putrid\ Pride-FfImsmupqG4.mp4&
+mpv --player-operation-mode=pseudo-gui --fs --fs-screen=1 --loop \$UICIDEBOY\$\ -\ Putrid\ Pride-FfImsmupqG4.mp4&
