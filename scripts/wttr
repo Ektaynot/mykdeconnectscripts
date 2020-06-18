@@ -1,0 +1,1 @@
+kitty --hold --start-as fullscreen curl wttr.in
